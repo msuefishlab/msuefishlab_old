@@ -1,0 +1,13 @@
+---
+author: Jason Gallant
+comments: false
+date: 2013-09-30 16:32:15+00:00
+layout: single
+title: Origins of Adaptive Wing Patterning
+---
+<figure style="width: 300px" class="align-left">
+<img src="/images/butterflies.png">
+</figure>
+A stunning variety of wing patterns have evolved among nymphalid butterflies in response to strong natural selection for mimicry (Fig. 1). Understanding the genetic basis of these wing patterns has been a long-standing goal in biology. This seemingly taxon-specific question is broadly important to evolutionary biology for a number of reasons: (1) few genes that underlie adaptive phenotypes have been identified outside of a limited number of highly studied model systems (2) understanding the genetic basis of adaptive traits gives insight into the age-old question whether the same mechanisms underlie convergent phenotypic traits, and (3) in cases where adaptive divergence is strongly related to speciation, genes underlying adaptive phenotypes have unique signatures of selection that give insights into the genetic basis of speciation.
+
+With these motivations, past research has been focused on the identification of the genetic basis one of the components of adaptive wing patterns: distal wing bands (Fig. 1, blue arrows) among the genus _Limenitis_ (Fig. 1, line 2). Using high-density genetic mapping, we have localized this phenotype to a single gene: the diffusible morphogen _WntA_ , which has an established role in the biosynthesis of melanin_._ Recent work in the distantly related _Heliconious_ (c.a. 65 MY divergence), has demonstrated that the identical gene WntA also underlies distal wing bands in this group as well (Martin et al., 2012). While many similar genetic mapping studies have identified other wing patterning genes in _Heliconius_, none of these genes are conserved outside of _Heliconious_, making WntA the first example of an ancient, homologous genetic mechanism underlying wing pattern mimicry (Gallant et al., 2014). It has been suggested in _Heliconius_ the change in WntA is cis-regulatory (Martin et al., 2012), though it has yet to be demonstrated what the causative nucleotide changes actually are. My work identified the existence of such a cis-regulatory “hot spot”, upstream of the WntA gene,  where the mimetic allele appears to contain a LINE element that is absent in white-banded individuals. Although relative expression of this gene does not change between phenotypes, this LINE  that potentially alters the untranslated region of the WntA transcript.   Most remarkably, mutations detected in a positionally orthologous region of the _Heliconius_ WntA gene species that display a similar variation in melanic wing patterning.

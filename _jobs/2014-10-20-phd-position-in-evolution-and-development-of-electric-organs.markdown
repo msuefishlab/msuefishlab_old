@@ -1,0 +1,16 @@
+---
+author: Jason Gallant
+layout: job
+author_profile: true
+comments: false
+date: 2015-06-11 14:26:58+00:00
+title: Evolution and Development of Electric Organs
+Type: Ph.D. Position
+Status: Filled
+---
+
+Many studies have elucidated the genetic and developmental processes underlying major vertebrate traits (fins, limbs, etc) in extant lineages. Most of these traits have evolved only once, limiting insights into the degree of constraint and repeatability of the evolutionary processes. In contrast with most other vertebrate traits, there have been six independent origins of electrogenesis, the ability to generate electric discharges from an electric organ, within fishes. Despite their clear benefit as a model for understanding general principles of parallel evolution of complex vertebrate tissues, we know little about the molecular and developmental processes underlying this tissue. In every group that has evolved electrogenesis, electric organs originate during development from skeletal muscle. The long-term goal of the Electric Fish Laboratory at Michgian State (http://efish.zoology.msu.edu) laboratories is to characterize the evolutionary steps that have occurred to modify the developmental program in skeletal muscle to give rise to the electric organ. A recent study (Gallant et al. 2014, _Science_) identified suites of genes in four species, representing three independent origins of electrogenesis, which appear to be critical n the evolution of electric organs. Using cutting edge techniques in evolution and development (including transgenics, genomics and molecular biology), we plan to test hypotheses concerning the roles of these genes in the evolution of electric organs.
+
+Ideal candidates for this position are high achieving, creative, and independent. Training will combine cutting edge techniques in genomics, bioinformatics molecular biology and animal behavior. Michigan State University (MSU) is a world-class research university, providing world-class computing and genomics resources. Set in the college town of East Lansing, the area features a low cost of living as well as ideal surroundings for nature lovers and sports fanatics alike. Prospective applicants can be supported through several interdepartmental graduate programs, including a top-ranked program in Ecology, Evolutionary Biology and Behavior (http://eebb.msu.edu), as well as genetics ([http://genetics.msu.edu](http://genetics.msu.edu)). Students will be encouraged to participate in a one-of-a-kind NSF-sponsored BEACON center for the study of evolution in action ([http://beacon-center.org](http://beacon-center.org)), for which MSU is the host institution. Successful candidates will be supported through a combination of research assistantships and teaching assistantships, and highly qualified may be eligible for additional support through competitive fellowships at the University level.
+
+Applications to MSU either graduate program in Biomolecular Science or Zoology is due December 1st, 2014. Interested candidates are strongly encouraged to send inquiries in advance of this deadline to Dr. Jason Gallant ([jgallant@msu.edu](mailto:jgallant@msu.edu)) for more information concerning this position, as well as guidance on the most appropriate graduate program to apply through.

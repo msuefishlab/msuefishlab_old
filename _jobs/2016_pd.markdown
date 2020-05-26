@@ -1,0 +1,25 @@
+---
+author: Jason Gallant
+layout: job
+author_profile: true
+comments: false
+date: 2016-10-19 18:46:40+00:00
+title: Comparative Genomics
+Type: Postdoc
+Status: Filled
+AppInstruct: Please visit [http://jobs.msu.edu](http://jobs.msu.edu) to apply.
+---
+
+![](/images/sparky_lablogo_notext_small.png){: .align-right} A National Science Foundation-sponsored postdoctoral position is now available in the Electric Fish Laboratory in the Department of Integrative Biology at Michigan State University (http://efish.zoology.msu.edu) concerning the comparative genomics of weakly electric fish.  In  contrast with most other vertebrate traits, there have been six independent origins of electrogenesis, the ability to generate electric discharges from an electric organ, within fishes. Despite their clear benefit as a model for understanding general principles of parallel evolution of complex vertebrate tissues, we know little about the molecular and developmental processes underlying this tissue, which closely resembles skeletal muscle see Gallant et al. 2012 _Science_. The long-term goal of our laboratory is to characterize the evolutionary steps that have occurred to modify the developmental program in skeletal muscle to give rise to the electric organ.  Thanks in part to recently available genomics resources, we are embarking on new comparative approaches to identify gene regulatory networks and regulatory regions that may be involved in the evolution of electric organs. This position is available immediately, but start dates are negotiable.   Appointment for this position will be initially for 12 months, with the possibility of renewal for up to three years, contingent on the continued availability of funds as well as satisfactory output of successful applicant.
+
+**Duties:** The successful applicant will be responsible for constructing genomic and transcriptomic libraries, as well as their assembly and analysis using bioinformatics tools in a high-performance computing environment.  Work will require the development of new research methodologies and tools, and publishing results in high-impact journals.  In addition, successful applicants will be responsible for co-training undergraduate, graduate students and technicians, as well as contributing to the overall research environment of the University.  Successful applicant will be encouraged to participate in a one-of-a-kind NSF-sponsored BEACON center for the study of evolution in action ([http://bit.ly/GN0Rhx](http://bit.ly/GN0Rhx)), for which MSU is the host institution.  Professional development opportunities will be provided in conjunction with the MSU Office of Postdoctoral Training and the Center For Academic Excellence.
+
+**Required qualifications:** Ph.D. or equivalent degree in biology, evolution, bioinformatics, genetics or related field. Publication of work based on Ph.D. thesis is required, as well as teaching and supervisory experience.  Experience with comparative genomic and transcriptomic data, and a strong working knowledge of next-generation sequencing technologies.  Proficiency in the use of UNIX/Linux command line operating systems.  Competence in at least one computer scripting language (R, Python, Perl, MATLAB).  Must be willing and able to perform fieldwork in Gabon, West-Central Africa.
+
+**Preferred qualifications:** Experience with comparative genomic assembly and analysis, population genetics, experience and background in communication systems and aquatic vertebrates, fluency or competency in French.
+
+Interested individuals can apply through the MSU Applicant page located at:
+
+http://jobs.msu.edu
+
+And search for position 4280.  Please feel free to contact jgallant [at] msu.edu for informal inquires or more information.

@@ -1,0 +1,88 @@
+{% if page.author and site.data.authors[page.author] %}
+  {% assign author = site.data.authors[page.author] %}
+{% else %}
+  {% assign author = site.author %}
+{% endif %}
+
+<div itemscope itemtype="http://schema.org/Person">
+
+  {% if author.avatar %}
+    <div class="author__avatar">
+      {% if author.avatar contains "://" %}
+        <img src="{{ author.avatar }}" alt="{{ author.name }}" itemprop="image">
+      {% else %}
+        <img src="{{ author.avatar | absolute_url }}" class="author__avatar" alt="{{ author.name }}" itemprop="image">
+      {% endif %}
+    </div>
+  {% endif %}
+
+  <div class="author__content">
+    <h3 class="author__name" itemprop="name">{{ author.name }}</h3>
+    {% if author.bio %}
+      <p class="author__bio" itemprop="description">
+        {{ author.bio }}
+      </p>
+    {% endif %}
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
+    <ul class="author__urls social-icons">
+      {% if author.location %}
+        <li itemprop="homeLocation" itemscope itemtype="http://schema.org/Place">
+          <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> <span itemprop="name">{{ author.location }}</span>
+        </li>
+      {% endif %}
+
+      {% if author.uri %}
+        <li>
+          <a href="{{ author.uri }}" itemprop="url">
+            <i class="fa fa-fw fa-chain" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author.email %}
+        <li>
+          <a href="mailto:{{ author.email }}">
+            <meta itemprop="email" content="{{ author.email }}" />
+            <i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author.phone %}
+        <li>
+            <i class="fa fa-fw fa-phone-square" aria-hidden="true"></i> {{author.phone}}
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author.office %}
+        <li>
+            <i class="fa fa-fw fa-building" aria-hidden="true"></i> {{author.office}}
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author.twitter %}
+        <li>
+          <a href="https://twitter.com/{{ author.twitter }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author.github %}
+        <li>
+          <a href="https://github.com/{{ author.github }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub
+          </a>
+        </li>
+      {% endif %}
+
+
+      {% include author-profile-custom-links.html %}
+    </ul>
+  </div>
+</div>

@@ -13,20 +13,26 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+title: MSU Electric Fish Lab
+email: your-email@example.com
+description: > # this means to ignore newlines until "baseurl:"
+  The MSU Electric Fish Laboratory is broadly interested in the origin and diversification of novel phenotypic and behavioral traits involved in animal communication signals.
+  Diverse communication signals are often associated with species radiations, implying an important link between signal diversity and the speciation process.
+  We explore these broad questions in mormyrid electric fish from Africa, which are ideally suited to highly integrative experimental approaches.
+  In the laboratory, we perform our analyses across many levels of biological organization, from the genome to populations.
+twitter_username: jasongallant
+github_username: msuefishlab
 minimal_mistakes_skin: default
 search: true
 repository: "msuefishlab/probable-octo-funicular"
 
 # Build settings
 markdown: kramdown
+
+kramdown:
+  auto_ids: true
+  toc_levels: 1..2
+  
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
@@ -58,35 +64,26 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+analytics:
+  provider: "google-universal"
+  google:
+    tracking_id: "UA-17457337-5"
 
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+breadcrumbs: true
+
+collections:
+    people:
+      output: true
+      permalink: /:collection/:path/
+    research:
+      output: true
+      permalink: /:collection/:path/
+    jobs:
+      output: true
+      permalink: /:collection/:path/
+    msu_ngs:
+      output: true
+      permalink: /:collection/:path/
 
 defaults:
   # _posts
@@ -99,18 +96,11 @@ defaults:
       read_time: true
       comments: true
       share: true
-      related: true
-  # _pages
+
+  # _people
   - scope:
-      path: "_pages"
-      type: pages
+      path: ""
+      type: people
     values:
       layout: single
       author_profile: true
-
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/

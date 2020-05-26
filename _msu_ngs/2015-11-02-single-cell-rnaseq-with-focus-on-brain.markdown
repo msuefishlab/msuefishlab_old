@@ -1,0 +1,36 @@
+---
+author: losillam
+author_profile: true
+comments: false
+date: 2015-11-02 14:19:53+00:00
+layout: single
+title: Single-cell RNAseq with focus on brain
+---
+
+This discussion was led by Dr. Mark Reimers, Department of Neuroscience, Michigan State University.
+
+Single-cell RNAseq is conceivably the current frontier in RNA sequencing. Several tissues have high levels of gene expression variation among individual cells. Disease processes (and other environmental stimuli) can induce gene expression differences in a specific cell type within a tissue. These differences likely remain undetected when RNA is profiled from bulk tissue. This problem is particularly important for brain studies, where cell types of interest are often present in low numbers. There are four main cell types in mammals’ brains: astrocytes, oligodentrocytes, microglia, and neurons. Neurons make up only 25-30% of the human brain, and they are exceptionally diverse themselves. Interneurons are small neurons with mostly local connections and mainly inhibitory functions. There are around 100 different types of interneurons in the human brain, and they play an important role in many disorders, like epilepsy and schizophrenia. Since they are a minority cell type within a minority of the brain cell types, it is very difficult to assess gene expression in interneurons, from bulk tissue profiling. This example shows how valuable single-cell RNAseq can be.
+
+[In one of the first studies](http://www.nature.com/nature/journal/v498/n7453/full/nature12172.html) that used single-cell RNAseq, researchers found high levels of gene expression variability in T lymphocytes. Around half of the genes detected were highly expressed in some cells, but were not expressed in other cells. In addition, splicing patterns also differed significantly among cells.  These results were attributed to 1) closely related, yet distinct, known maturity states of the T cells, and 2) differences in the usage of key regulatory circuits.
+
+Technical variation must be considered in single-cell RNAseq studies of expression variation. The process of tissue preparation can significantly alter the RNA profile of the target cells. In addition, for low-abundance transcripts, the number of copies after the PCR amplification process will be highly dependent on how many copies were amplified in the initial cycles of the PCR reaction. Since most transcripts have eight or less copies in an average mammalian cell, this issue certainly deserves careful consideration.  [A recent paper](http://www.genomebiology.com/2015/16/1/122) demonstrates how this technical variation can be accounted for.  Researchers sequenced 91 cells from five mouse tissues and 18 cells from two rat tissues, along with 30 control samples of bulk RNA diluted to single-cell  levels. They found differences in the number of genes expressed and in their average expression patterns across tissues; plus expression differences within tissues. The three following figures are from this paper.
+
+[![fig1](http://efish.zoology.msu.edu/msu_ngs_rg/wp-content/uploads/2015/11/fig1-300x273.jpg)](http://efish.zoology.msu.edu/msu_ngs_rg/wp-content/uploads/2015/11/fig1.jpg)
+
+Figure 1c shows that the pyramidal cells in the cortex and hippocampus express much more genes than the other cell types. Figure 1d indicates that, in addition to exons, reads also contain introns and intergenic regions. The amount of these differs by tissue, and they are remarkably high in pyramidal cells in the cortex and hippocampus. There are two reasons for this: First, the initial transcripts include introns, which are usually spliced out, and therefore not present in cytoplasmic, mature mRNAs. However, in neurons, a smaller proportion of the total mRNA is found in the cell body; so a higher proportion of introns from pre-mRNAs should be expected. Second, some of these transcripts are long noncoding RNAs, many of which have unknown functions. It has been hypothesized that they played a role in primate brain evolution.
+
+[![fig2](http://efish.zoology.msu.edu/msu_ngs_rg/wp-content/uploads/2015/11/fig2-300x260.jpg)](http://efish.zoology.msu.edu/msu_ngs_rg/wp-content/uploads/2015/11/fig2.jpg)
+
+Figure 2a suggests that very few genes are consistently expressed across tissues. Indeed, housekeeping genes cannot be relied on as controls between different conditions or different cells. Nowadays, it is more common to look at the median expression of those housekeeping genes, as a better marker for a normalizing constant; rather than looking at any individual gene. For more information on normalization in RNAseq differential expression studies, [read this paper](http://www.genomebiology.com/2010/11/3/R25)
+
+[![fig3](http://efish.zoology.msu.edu/msu_ngs_rg/wp-content/uploads/2015/11/fig3-300x249.jpg)](http://efish.zoology.msu.edu/msu_ngs_rg/wp-content/uploads/2015/11/fig3.jpg)
+
+Figure 3 is arguably the most important figure of this paper. Panel e) illustrates gene expression variation among cells from the same cell type. Orange-colored genes show a normal distribution of expression levels across cells of a given type; meanwhile green-colored genes display a highly variable expression. More interesting, panel f) classifies those normally and highly expressed genes according to their mRNA half-life (fast or slow decay). The results are clearly asymmetric: few slow decay genes are considered highly variable, whereas close to half of the fast decaying genes are highly variable! This suggest that at least some (but certainly not all) of the observed variability is of biological origin.
+
+[Another recent paper](http://www.pnas.org/content/112/23/7285) became the first fairly successful attempt to sequence the transcriptome of human brain cells.
+
+[![other fig1](http://efish.zoology.msu.edu/msu_ngs_rg/wp-content/uploads/2015/11/other-fig1-147x300.jpg)](http://efish.zoology.msu.edu/msu_ngs_rg/wp-content/uploads/2015/11/other-fig1.jpg)
+
+However, there is a lot of variability within the groups of panel a), and Dr. Reimers has not been able to reproduce this result. Many of their samples have only 0.5 million reads, which is too few to get a reliable sample in single-cell RNAseq (in theory, 3-5 million reads are needed to detect around 90% of the transcripts). Also, in neurons, a large fraction of the mRNA is exported to the dendrites before being translated, and pulling them out from the tissue usually involves breaking a fraction of them. Nevertheless, the authors were still able to recover gene clusters clearly associated with each of the major brain cell types (panel b). They also made an interesting comparison with previous work, that had examined transcriptomes from approximately 50 purified cells from a given rodent brain cell type. Perhaps unexpectedly, they found that the gene expression profiles of the same cell types between human and rodent are quite different. Other tissues do not show these differences.
+
+Probably the brain is an extreme case of intra cell type gene expression variation. Other tissues likely display levels of variation according to tissue complexity (_i.e._ having several cell types in close proximity). But in all cases, single-cell RNAseq should provide a more accurate picture of RNA profiling, compared to bulk tissue sequencing.

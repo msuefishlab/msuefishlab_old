@@ -1,0 +1,26 @@
+---
+author: Jason Gallant
+layout: job
+author_profile: true
+comments: false
+date: 2016-10-19 18:39:32+00:00
+title: Fish Care and Molecular Biology
+Type: Research Technician
+Status: Filled
+---
+
+[![sparky_lablogo_notext](/images/sparky_lablogo_notext.png)] The Electric Fish Laboratory at Michigan State University (efish.zoology.msu.edu) is looking to fill an immediate opening for the position of **Research Technician**.  This position is an opportunity to join an exciting and diverse team of biologists focused on understanding the genomic underpinnings of electric organs in weakly electric fish.  This position will involve working with many species of freshwater fishes that produce weak electric fields for communication and navigation.  The successful applicant will be involved in the application and development of exciting genomic approaches to animal behavior, evolution and developmental biology.
+
+**Minimum requirements**:  A bachelor’s degree in biology or related field.  Minimum one years’ experience with fish husbandry, including care of adult and juvenile fish and embryos.  Ability to maintain large numbers of aquaria for freshwater fish.  Experience handling fish, including dissection, administration of drugs through injection, capture and release, behavioral observations and husbandry related to breeding activities.  In addition, practical experience and working knowledge of basic molecular biology laboratory techniques, including molecular cloning, DNA and RNA isolation and PCR.  Must be absolutely dependable, with excellent organization and communication skills.  Must be willing and able to perform duties on some weekends and holidays on a rotating basis.
+
+**Desired qualifications**: Long-term experience with fish husbandry.  Ability to take charge and oversee animal husbandry and lab procedures.  A general familiarity with laboratory safety and campus animal care policy and procedures, experience training and supervising assistants in fish care and colony maintenance.  Field and laboratory experience, particularly in fish capture and tissue sampling.  Experience with use of various desktop computer software (Microsoft Office, Dropbox, etc).  Long term interest in fish behavior, ecology, and genetics.
+
+**Job Summary**: Primary responsibilities include maintaining large colony of mormyrid electric fish including feeding and keeping aquaria and lab clean and in good working order (40%).  Provide support for ongoing experiments, including collection and analysis of tissues and samples. Perform experiments under supervision of laboratory head (40%). Train undergraduate assistants and other lab members in fish husbandry and lab maintenance tasks (10%).  Occasional laboratory administration, including ordering supplies and materials (10%).
+
+This is a full-time appointment, and offers excellent benefits (healthcare, dental, etc). The initial appointment will be for a 6-month probationary period, after which yearly reappointments will be made for successful and productive candidates.
+
+Interested individuals can apply through the MSU Applicant page located at:
+
+http://jobs.msu.edu
+
+And search for position 4266.  Please contact jgallant [at] msu.edu for informal inquiries or for more information about the position.

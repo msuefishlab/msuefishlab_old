@@ -1,0 +1,98 @@
+---
+author: schacht6
+author_profile: true
+comments: false
+date: 2015-11-16 15:02:54+00:00
+layout: single
+link: http://efish.zoology.msu.edu/msu_ngs_rg/2015/11/16/rad-seq/
+title: RAD-seq
+---
+
+This week’s discussion was led by Dan Hulbert (Jim Smith Lab, MSU) on the topic of _R_estriction site _A_ssisted _D_NA (RAD) tag or marker sequencing.
+
+**About the technique: what it is and why care about it.**
+
+RAD-seq is a genome reduction approach. This means that genomic DNA is treated (in this case with restriction enzymes) to reduce the full genome to a reproducible subset of the genome that can be used for sequencing. Combination of genome reduction with SNP/Variant calling analysis allows those who use this approach to identify and use several SNP markers that flank conserved restriction sites between individuals. This allows for rapid discovery of many SNPs that are then available for use in mapping studies or phylogenetic analysis.  For phylogenetics, this means many more markers are available at low cost than by using an approach such as multi-locus sequence typing (MLST) that utilizes sanger sequencing and few genes. Thus, more recent evolutionary divergences can be resolved with the increased marker population available.  And, all of this can be done without the need of a reference genome.
+
+**How does RAD-seq work?:**
+
+The RAD-seq approach shares many steps with other NGS experimental approaches, and follows this rough scheme:
+
+
+
+
+  1. Experimental Design
+
+
+  2. Endonuclease digestion
+
+
+  3. Adapter 1 ligation and barcoding for multiplexing
+
+
+  4. DNA shearing and size-selection
+
+
+  5. Adapter 2 ligation
+
+
+  6. RAD-tag amplification
+
+
+  7. High-throughput sequencing
+
+
+  8. Bioinformatics
+
+
+    1. Creating Stacks and SNP calling
+
+
+
+
+
+  9. Analysis and addressing the scientific question(s).
+
+
+
+
+**What special care needs to be taken in the design of RAD-seq experiments?:**
+
+In addition to the planning needed for a general NGS experiment, discussion highlighted the need for care in the design of RAD-seq experiments especially in restriction endonuclease selection:
+
+Different restriction endonucleases will cut with different frequencies in the genome (a 4 base cut site enzyme will cut more often than an enzyme with a 6 base recognition sequence). Which type you want will depend on how many RAD-tags you want to sequence. You can estimate the number of RAD-tags a given enzyme will yield by conducting an _in silico_ digest of the genome (if a reference genome is not available, using the genome of a closely related species was recommended, so that the technique is still accessible for use when a reference genome is not available). Those present in the discussion who have utilized RAD-seq have found that estimates for number of RAD-tags are pretty much always high.
+
+For SNP calling purposes, a recommended depth of 10X coverage is recommended. Thus the number of RAD-tags desired (and also restriction endonuclease selection) must be a function of the number of tags desired to get the phylogenetic resolving power desired and the number of individual samples being sequenced to get maximal yield within the funds available for the sequencing.
+
+Additionally, the selected restriction endonuclease should be checked against the mitochondrial and chloroplast genomes to ensure that it has no cut sites in them, otherwise the sequencing will result in an abundance of organellar DNA that is non-informative.
+
+
+
+**Papers Presented:**
+
+In addition to the methodological discussion, Dan provided 2 studies in which RAD-seq was used. One compared the power of RAD-seq vs sanger sequencing for resolution of a phylogenetic tree ([http://mbe.oxfordjournals.org/content/31/5/1272.full](http://mbe.oxfordjournals.org/content/31/5/1272.full)). The other utilized RAD-seq for SNP discovery and gene mapping ([http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2557064/](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2557064/)).
+**Paper references:**
+
+Baird, N.A., Eber, P.D., Atwood, T.S., Currey, M.C., Shiver, A.L., Lewis, Z.A., Selker, E.U., Cresko, W.A., and Johnson, E.A. (2008). Rapid SNP Discovery and Genetic Mapping Using Sequenced RAD Markers. PLoS ONE 3, e3376.
+
+Cruaud, A., Gautier, M., Galan, M., Foucaud, J., Sauné, L., Genson, G., Dubois, E., Nidelet, S., Deuve, T., and Rasplus, J.-­‐Y. (2014). Empirical Assessment of RAD Sequencing for Interspecific Phylogeny. Mol. Biol. Evol. 31, 1272–1274.
+
+
+
+The following are also additional resources Dan provided on the topic of RAD-seq:
+
+Cariou, M., Duret, L., and Charlat, S. (2013). Is RAD-­‐seq suitable for phylogenetic inference? An in silico assessment and optimization. Ecol. Evol. 3, 846–852.
+
+Emerson, K.J., Merz, C.R., Catchen, J.M., Hohenlohe, P.A., Cresko, W.A., Bradshaw, W.E., and Holzapfel, C.M. (2010). Resolving postglacial phylogeography using high-­‐throughput sequencing. Proc. Natl. Acad. Sci. 107, 16196–16200.
+
+Eber, P. D., Bassham, S., Hohenlohe, P. A., Johnson, E. A., and Cresko, W. A. (2011). SNP discovery and genotyping for evolutionary genetics using RAD sequencing. In Molecular Methods for Evolutionary Genetics, Orgogozo, Virginie, and Rockman, Mabhew V, eds. (New York: Humana Press), pp. 157–178.
+
+Glenn, T.C. (2011). Field guide to next-­‐generaHon DNA sequencers. Mol. Ecol. Resour. 11, 759–769.
+
+Lemmon, E.M., and Lemmon, A.R. (2013). High-­‐Throughput Genomic Data in Systematics and
+
+PhylogeneHcs. Annu. Rev. Ecol. Evol. Syst. 44, 99–121.
+
+Rubin, B.E.R., Ree, R.H., and Moreau, C.S. (2012). Inferring Phylogenies from RAD Sequence Data. PLoS ONE 7, e33394.
+
+Wagner, C.E., Keller, I., Wibwer, S., Selz, O.M., Mwaiko, S., Greuter, L., Sivasundar, A., and Seehausen, O. (2013). Genome-­‐wide RAD sequence data provide unprecedented resolution of species boundaries and relationships in the Lake Victoria cichlid adaptive radiation. Mol. Ecol. 22, 787–798.

@@ -1,0 +1,25 @@
+---
+author: Jason Gallant
+layout: job
+author_profile: true
+comments: false
+date: 2015-05-15 21:05:41+00:00
+title: Postdoctoral Position in Electric Fish Genomics
+Type: Postdoc
+Status: Filled
+---
+
+
+
+
+A National Science Foundation postdoctoral position is now available in the Electric Fish Laboratory in the[![sparky_lablogo_notext_smaller](http://efish.zoology.msu.edu/wp-content/uploads/2014/02/sparky_lablogo_notext_smaller1.png)](http://efish.zoology.msu.edu/wp-content/uploads/2014/02/sparky_lablogo_notext_smaller1.png) Department of Integrative Biology at Michigan State University (http://efish.zoology.msu.edu) concerning the genomic basis of electric signal diversity in mormyrid electric fish.  Electric signals are crucial in the evolution of reproductive isolation among the rapidly diverged Paramormyrops genus.  This interdisciplinary project will involve the combination of gene expression analysis (RNA-seq), population genomics, and the application of new and exciting transgenic techniques in non-model systems.  For an overview of approaches see Gallant et al. (2014, Science) and Gallant et al. (2014, Nature Communications).
+
+This position is available as of May 2015, but start dates are negotiable.   Appointment for this position will be initially for 12 months, with the possibility of renewal for up to three years, contingent on the continued availability of funds as well as satisfactory output of successful applicant.
+
+**Duties**: The successful applicant will be responsible for constructing genomic and transcriptomic libraries, as well as their assembly and analysis using bioinformatics tools in a high-performance computing environment.  Work will require the development of new research methodologies and tools, and publishing results in high-impact journals.  In addition, successful applicants will be responsible for co-training undergraduate, graduate students and technicians, as well as contributing to the overall research environment of the University.  Successful applicant will be encouraged to participate in a one-of-a-kind NSF-sponsored BEACON center for the study of evolution in action (http://bit.ly/GN0Rhx), for which MSU is the host institution.  Professional development opportunities will be provided in conjunction with the MSU Office of Postdoctoral Training and the Center For Academic Excellence.
+
+**Required qualifications**: Ph.D. or equivalent degree in biology, evolution, bioinformatics, genetics or related field. Publication of work based on Ph.D. thesis is required, as well as teaching and supervisory experience.  A strong working knowledge of next-generation sequencing technologies, as well as proficiency in the use of UNIX/Linux command line operating systems.  Competence in at least one computer scripting language (R, Python, Perl, MATLAB).  Must be willing and able to perform fieldwork in Gabon, West-Central Africa.
+
+**Preferred qualifications**: Experience with genomic assembly and analysis, population genetics, experience and background in communication systems and aquatic vertebrates, fluency or competency in French.
+
+To apply, email the following: a cover letter, current CV, and the contact information (phone number and email address) of three referees to jgallant [at] msu.edu.
