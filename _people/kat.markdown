@@ -6,6 +6,7 @@ Name: Katherine Shaw
 Formerly: Research Technician
 Title: Graduate Student, University of Ottowa
 Email: shawkat6@msu.edu
-Picture: /images/kat.png
+header:
+  teaser: /images/kat.png
 Status: Inactive
 ---

@@ -6,7 +6,8 @@ layout: single
 Name: Ryan Taylor
 Title: Graduate Student, University of South Florida
 Formerly: Research Technician
-Picture: /images/ryan.png
+header:
+  teaser: /images/ryan.png
 Status: Inactive
 ---
 

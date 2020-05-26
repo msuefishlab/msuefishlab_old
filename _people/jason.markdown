@@ -6,7 +6,8 @@ Name: Dr. Jason Gallant
 Title: Assistant Professor of Integrative Biology
 Telephone Number: 517-884-7756
 Email: jgallant@msu.edu
-Picture: /images/jason.png
+header:
+  teaser: /images/jason.png
 Status: Active
 ---
 

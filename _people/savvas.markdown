@@ -6,7 +6,8 @@ layout: single
 Name: Savvas Constantinou
 Title: Graduate Student
 Email: consta64@msu.edu
-Picture: /images/savvas.png
+header:
+  teaser: /images/savvas.png
 Status: Active
 ---
 

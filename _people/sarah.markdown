@@ -4,7 +4,8 @@ date: 2014-04-29 01:18:12+00:00
 Formerly: Undergraduate Research Assistant / IBSB 2014 Program
 layout: single
 Name: Sarah Sam
-Picture: /images/missing.png
+header:
+  teaser: /images/missing.png
 Status: Inactive
 ---
 

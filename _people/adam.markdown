@@ -3,7 +3,8 @@ comments: false
 date: 2015-06-11 14:26:58+00:00
 layout: single
 Name: Adam Gleichman
-Picture: /images/adam.png
+header:
+  teaser: /images/jason.png /images/adam.png
 Email: gleichm1@msu.edu
 Formerly: Undergraduate Research Assistant
 Status: Inactive

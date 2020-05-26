@@ -5,7 +5,8 @@ layout: single
 Name: Colin Diesh
 Title: Graduate Student, Wayne State University
 Email: dieshcol@msu.edu
-Picture: /images/colin.png
+header:
+  teaser: /images/colin.png
 Status: Inactive
 Formerly: Research Technician / Programmer
 Status: Inactive

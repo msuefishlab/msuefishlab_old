@@ -4,7 +4,8 @@ date: 2018-09-05
 layout: page
 Name: Dr. David Luecke
 Title: Postdoc
-Picture: /images/david.png
+header:
+  teaser: /images/david.png
 Email: david.luecke@gmail.com
 Status: Active
 ---

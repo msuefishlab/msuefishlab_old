@@ -4,7 +4,8 @@ comments: false
 date: 2015-06-11 14:25:57+00:00
 layout: single
 Name: Fernando Fernandez
-Picture: /images/fernando.png
+header:
+  teaser: /images/fernando.png
 Status: Inactive
 Email: fernando.fernandez6@upr.edu
 Formerly: Undergraduate Research Assistant

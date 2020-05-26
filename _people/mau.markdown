@@ -6,7 +6,8 @@ layout: single
 Name: Mauricio Losilla
 Title: Graduate Student
 Email: losillam@msu.edu
-Picture: /images/mauricio.png
+header:
+  teaser: /images/mauricio.png
 Status: Active
 ---
 

@@ -4,7 +4,8 @@ date: 2018-03-01
 layout: page
 Name: Lauren Koenig
 Title: Graduate Student
-Picture: /images/lauren.png
+header:
+  teaser: /images/lauren.png
 Email: koenigl2@msu.edu
 Status: Active
 ---

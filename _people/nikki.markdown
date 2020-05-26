@@ -4,7 +4,8 @@ date: 2015-06-11 14:24:34+00:00
 layout: page
 Name: Nicole Robichaud
 Title:
-Picture: /images/nikki.png
+header:
+  teaser: /images/nikki.png
 Status: Active
 Email: robicha7@msu.edu
 Formerly: Research Technician / Programmer

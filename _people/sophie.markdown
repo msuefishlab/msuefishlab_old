@@ -6,7 +6,8 @@ layout: single
 Name: Dr. Sophie Picq
 Title: Postdoc
 Email: picqsoph@msu.edu
-Picture: /images/sophie.png
+header:
+  teaser: /images/sophie.png
 Status: Active
 ---
 

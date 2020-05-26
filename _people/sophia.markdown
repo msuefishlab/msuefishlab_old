@@ -5,7 +5,8 @@ layout: single
 Name: Sophia Sdao
 Title: Graduate Student, University of Wisconsin- Madison
 Formerly: Undergraduate Research Assistant
-Picture: /images/sophia.png
+header:
+  teaser: /images/sophia.png
 Status: Inactive
 ---
 

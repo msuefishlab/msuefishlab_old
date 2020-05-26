@@ -6,7 +6,8 @@ layout: single
 Name: Dr. Will Pitchers
 Title: Bioinformatician, Doherty Institute, University of Melbourne
 Email: pitchers@msu.edu
-Picture: /images/will.png
+header:
+  teaser: /images/will.png
 Formerly: Postdoc
 Status: Inactive
 ---

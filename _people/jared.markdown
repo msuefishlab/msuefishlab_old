@@ -5,6 +5,7 @@ layout: single
 Name: Jared Thompson
 Title: Research Technician
 Email: thomp997@msu.edu
-Picture: /images/jared.png
+header:
+  teaser: /images/jared.png
 Status: Active
 ---

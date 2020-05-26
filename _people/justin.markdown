@@ -4,7 +4,8 @@ date: 2014-04-29 01:15:03+00:00
 layout: single
 Name: Justin Rucinski
 Formerly: Undergraduate Research Assistant
-Picture: /images/missing.png
+header:
+  teaser: /images/missing.png
 Status: Inactive
 Email: rucins11@msu.edu
 ---

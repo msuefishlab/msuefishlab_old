@@ -4,7 +4,8 @@ date: 2015-06-11 14:24:34+00:00
 layout: single
 comments: false
 Name: Hope Healey
-Picture: /images/hope.png
+header:
+  teaser: /images/hope.png
 Formerly: Research Technician & Undergraduate Research Assistant
 Email: healeyho@msu.edu
 Title: Graduate Student, University of Oregon
