@@ -4,10 +4,10 @@ layout: archive
 
 <h2> Current Lab Members: </h2>
 <div class="entries-{{ page.entries_layout }}">
-  {% include people_collection.html collection="people" sort_by=page.sort_by sort_order=page.sort_order type=page.entries_layout %}
+  {% include people_collection.html collection=people sort_by=page.sort_by sort_order=page.sort_order type=page.entries_layout %}
 </div>
 
 <h2> Former Lab Members: </h2>
   <div class="entries-{{ page.entries_layout }}">
-    {% include documents-collection.html collection="former_people" sort_by=page.sort_by sort_order=page.sort_order type=page.entries_layout %}
+    {% include people_collection.html collection=former_people sort_by=page.sort_by sort_order=page.sort_order type=page.entries_layout %}
   </div>
