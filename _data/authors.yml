@@ -1,0 +1,59 @@
+# /_data/authors.yml
+
+Jason Gallant:
+  name: "Jason Gallant"
+  uri: "http://efish.zoology.msu.edu"
+  email: "jgallant@msu.edu"
+  avatar: "/images/jason.png"
+  twitter: "jasongallant"
+  github: "msuefishlab"
+  phone: "517-884-7756"
+  office: "38 Natural Sciences"
+
+MSU EFish Lab:
+    name: "MSU EFish Lab"
+    uri: "http://efish.zoology.msu.edu"
+    avatar: "/images/kingsleyae2.png"
+    twitter: "jasongallant"
+    github: "msuefishlab"
+    phone: "517-884-7756"
+    office: "38 Natural Sciences"
+
+charbo24:
+  name: Amanda Charbonneau
+  avatar: "/images/missing.png"
+  email: "charbo24@msu.edu"
+
+dawsonb5:
+  name: Ethan Dawson-Baglien
+  avatar: "/images/missing.png"
+  email: "dawsonb5@msu.edu"
+
+angosht2:
+  name: Roshan Angoshtari
+  avatar: "/images/missing.png"
+  email: "angosht2@msu.edu"
+
+parigiab:
+  name: Abhijna Parigi
+  avatar: "/images/missing.png"
+  email: "parigiab@msu.edu"
+
+losillam:
+  name: "Mauricio Losilla"
+  avatar: "/images/mauricio.png"
+  email: "losillam@msu.edu"
+
+rothmitc:
+  name: Mitch Roth
+  avatar: "/images/missing.png"
+  email: "rothmitc@msu.edu"
+
+schacht6:
+  name: Jeffrey Schachterle
+  avatar: "/images/missing.png"
+  email: "schacht6@msu.edu"
+
+consta64:
+  name: "Savvas Constantinou"
+  avatar: "/images/savvas.png"
