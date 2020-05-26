@@ -1,18 +1,18 @@
 main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
-  - title: "Posts"
-    url: /year-archive/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "Pages"
-    url: /page-archive/
-  - title: "Collections"
-    url: /collection-archive/
-  - title: "External Link"
-    url: https://google.com
+  - title: "People"
+    url: /people/
+  - title: "Research"
+    url: /research
+  - title: "Publications"
+    url: /publications/
+  - title: "Education"
+    url: /teaching/
+  - title: "Fieldwork"
+    url: /fieldwork/
+  - title: "Collaborations"
+    url: /collaborators/
+  - title: "Blog"
+    url: /blog/
 
 # # main links
 # main:
