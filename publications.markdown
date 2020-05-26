@@ -6,7 +6,7 @@ date: 2017-08-16T08:19:10.000+00:00
 permalink: "/publications/"
 layout: single
 title: Projects, Publications & Presentations
-
+classes: wide
 ---
 {% include toc title="Table of Contents" %}
 
