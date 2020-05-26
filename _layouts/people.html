@@ -8,7 +8,8 @@ layout: archive
   {% include people_collection.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order type=page.entries_layout %}
 </div>
 
+<p>
 <h2> Former Lab Members: </h2>
   <div class="entries-{{ page.entries_layout }}">
-    {% include people_collection.html collection="former_people" sort_by=page.sort_by sort_order=page.sort_order type=page.entries_layout %}
+    {% include people_collection.html collection=page.other_collection sort_by=page.sort_by sort_order=page.sort_order type=page.entries_layout %}
   </div>
