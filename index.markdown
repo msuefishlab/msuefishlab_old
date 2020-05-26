@@ -4,7 +4,9 @@ comments: false
 date: 2020-05-25
 title: Welcome to the MSU Electric Fish Lab!
 author_profile: true
-layout: landing
+layout: splash
+classes:
+  - landing 
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
