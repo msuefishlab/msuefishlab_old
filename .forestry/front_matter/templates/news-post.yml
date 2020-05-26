@@ -1,0 +1,25 @@
+---
+label: News Post
+hide_body: false
+fields:
+- type: text
+  name: author
+  label: author
+- type: text
+  name: layout
+  label: layout
+- type: boolean
+  name: author_profile
+  label: author_profile
+- type: boolean
+  name: comments
+  label: comments
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: title
+  label: title
+- type: list
+  name: tags
+  label: tags
