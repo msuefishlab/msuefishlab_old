@@ -6,7 +6,7 @@ title: Welcome to the MSU Electric Fish Lab!
 author_profile: true
 layout: splash
 classes:
-  - landing 
+  - landing
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
@@ -17,9 +17,7 @@ excerpt: " \"The electric organs of fishes offer another case of special difficu
 
 
 ## About Our Research
-The Gallant laboratory is broadly interested in the origin and diversification of novel phenotypic and behavioral traits involved in animal communication signals.  Diverse communication signals are often associated with species radiations, implying an important link between signal diversity and the speciation process.
-{% include video id="qWjus4t8RXc" provider="youtube" %}{: .right_set_video_container}
-We explore these broad questions in mormyrid electric fish from Africa, which are ideally suited to highly integrative experimental approaches.  In the laboratory, we perform our analyses across many levels of biological organization, from the genome to populations.  
+The Gallant laboratory is broadly interested in the origin and diversification of novel phenotypic and behavioral traits involved in animal communication signals.  Diverse communication signals are often associated with species radiations, implying an important link between signal diversity and the speciation process.  We explore these broad questions in mormyrid electric fish from Africa, which are ideally suited to highly integrative experimental approaches.  In the laboratory, we perform our analyses across many levels of biological organization, from the genome to populations.  
 
 <!-- <h3>Open Positions: </h3>
 <ul>
