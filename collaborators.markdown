@@ -11,10 +11,13 @@ title: Ongoing Collaborations
 - [Dr. Boris Chagnaud](http://www.b-p-chagnaud.net)
 
 ## Mormyrid Potassium Channel Evolution:
-- [Dr. Harold Zakon](http://www.b-p-chagnaud.net)
+- [Dr. Harold Zakon](https://cns.utexas.edu/directory/item/7-integrative-biology/411-zakon-harold-h?Itemid=349)
 
 ## Developing Genetic Manipulation Techniques in Electric Fish
+- [Dr. Harold Zakon](https://cns.utexas.edu/directory/item/7-integrative-biology/411-zakon-harold-h?Itemid=349)
+- [Dr. Michael Markham](http://www.markhamlab.com)
+- [Dr. Nate Sawtell](https://sawtell-lab.neuroscience.columbia.edu)
+- [Dr. Wes Warren](https://bondlsc.missouri.edu/person/wes-warren/)
 
 ## Electric Fish Genomics
-- [Dr. Wes Warren](http://www.b-p-chagnaud.net) - Washington University in St. Louis
-##
+- [Dr. Wes Warren](https://bondlsc.missouri.edu/person/wes-warren/)

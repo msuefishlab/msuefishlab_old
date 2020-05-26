@@ -1,7 +1,7 @@
 ---
 author: Jason Gallant
 comments: false
-date: 2018-06-21
+date: 2020-05-25
 title: Welcome to the MSU Electric Fish Lab!
 author_profile: true
 layout: landing
