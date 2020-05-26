@@ -32,7 +32,7 @@ markdown: kramdown
 kramdown:
   auto_ids: true
   toc_levels: 1..2
-  
+
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
@@ -73,6 +73,9 @@ breadcrumbs: true
 
 collections:
     people:
+      output: true
+      permalink: /:collection/:path/
+    former_people:
       output: true
       permalink: /:collection/:path/
     research:
