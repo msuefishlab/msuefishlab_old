@@ -7,8 +7,10 @@ permalink: "/publications/"
 layout: single
 title: Projects, Publications & Presentations
 classes: wide
+toc: true
+toc_label: "Contents"
+toc_icon: "cog"
 ---
-{% include toc title="Table of Contents" %}
 
 ## Publications
 
