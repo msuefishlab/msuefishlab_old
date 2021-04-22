@@ -2,9 +2,9 @@
 author: jasongallant
 date: 2020-05-26
 layout: page
-Name: Douglas Maldonado-Torres
+Name: Allie Kwang
 Title: Undergraduate Research Assistant
 header:
-  teaser: /images/douglas.png
-Status: Active
+  teaser: /images/allie.png
+Status: Inactive
 ---

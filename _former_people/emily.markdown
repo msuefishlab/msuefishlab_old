@@ -6,5 +6,5 @@ Name: Emily Parker
 Title: Undergraduate Research Assistant
 header:
   teaser: /images/emily.png
-Status: Active
+Status: Inactive
 ---

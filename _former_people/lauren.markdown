@@ -7,7 +7,7 @@ Title: Graduate Student
 header:
   teaser: /images/lauren.png
 Email: koenigl2@msu.edu
-Status: Active
+Status: Inactive
 ---
 Lauren is a Ph.D. student in the lab.  She is the recipient of a NSF GRFP and is interested in the evolution of reproduction in mormyrid electric fish.
 
