@@ -8,6 +8,7 @@ permalink: /teaching/
 title: Teaching & Outreach
 ---
 ## Courses Offered at Michigan State University:
+- [Evolution (IBIO445 - Spring Semesters from 2020)]
 - [Evolutionary Biology (PLB/ZOL 849) - Spring 2015](/teaching/evol849/)
 - Developmental Biology (IBIO 320) - Fall 2015, Fall 2016
 - [MSU NGS Methods Reading Group (IBIO 890) - Fall 2015](/teaching/msu_ngs/)
