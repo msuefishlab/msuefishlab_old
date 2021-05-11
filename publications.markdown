@@ -14,8 +14,10 @@ toc_icon: "cog"
 
 ## Publications
 
-### 2020
+### 2021
+• Koenig, L. and Gallant, J.R. (2021) Sperm Competition, Sexual Selection, and the Diverse Reproductive Biology of Osteoglossiformes  Journal of Fish Biology: doi:10.1111/jfb.14779 \[[PDF File](https://doi.org/10.1111/jfb.14779)\]
 
+### 2020
 • Picq, S., Sperling, J., Cheng, C.J, Carlson, B.A. and Gallant, J.R. (2020) Genetic drift does not sufficiently explain patterns of electric signal variation among populations of the mormyrid electric fish _Paramormyrops kingsleyae._  Evolution: doi:10.1111/evo.1395 \[[PDF File](https://github.com/msuefishlab/msuefishlab.github.io/raw/master/images/evo.13953.pdf)\]
 
 • Gallant, J.R. and O'Connell, L.A. (2020) Studying convergent evolution to relate genotype to behavioral phenotype.  Journal of Experimental Biology 223: jeb213447 doi: 10.1242/jeb.213447 \[[PDF File](https://jeb.biologists.org/content/223/Suppl_1/jeb213447)\]
