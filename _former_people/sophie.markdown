@@ -8,7 +8,9 @@ Title: Postdoc
 Email: picqsoph@msu.edu
 header:
   teaser: /images/sophie.png
-Status: Active
+Title: Postdoc, Benbow Laboratory, Michigan State University
+Formerly: Postdoc
+Status: Inactive
 ---
 
 Dr. Sophie Picq, Ph.D.
