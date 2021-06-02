@@ -5,7 +5,7 @@ layout: page
 Name: Elise Straub
 Title: Undergraduate Research Assistant
 header:
-  teaser: /images/elise.png
+  teaser: /images/missing.png
 Email: straube9@msu.edu
 Status: Active
 ---

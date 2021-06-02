@@ -5,7 +5,7 @@ layout: page
 Name: Sergio Acuna
 Title: Undergraduate Research Assistant
 header:
-  teaser: /images/sergio.png
+  teaser: /images/missing.png
 Email: acunaser@msu.edu
 Status: Active
 ---
