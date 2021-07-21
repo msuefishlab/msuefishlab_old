@@ -3,7 +3,7 @@ author: Jason Gallant
 layout: single
 author_profile: true
 comments: false
-date: 2019-08-01 00:00:00 -0400
+date: 2019-08-01T00:00:00.000-04:00
 title: Fieldwork
 tags: []
 
@@ -15,10 +15,10 @@ tags: []
 <figcaption>Our Field sites.</figcaption>
 </figure> With more than 400 species of brackish and freshwater fish, Gabon abounds in a rich aquatic biodiversity. Among them, are the mormyrids, a group of about 200 species endemic to Africa.  One genus _Paramormyrops_ is particularly abundant in Gabon, where approximately 30 species have been recognized. These small fish iemit weak electrical discharges from an electrical organ derived from muscle tissue located in their tail. Mormyrids use these discharges both for communication purposes as well as to form electro-sensory images of their environment and to detect their prey.  Often different species are morphologically similar, but emit very distinct electrical discharges from each other, which suggests that these electrical signals play an important role in the recognition of species.
 
-<figure style="width: 300px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/makokou.jpg" alt=""> 
-  <figcaption>The mighty Ivindo River, as seen from the Ipassa field station.</figcaption>
-</figure>This study was conducted in three different regions of Gabon: 
+![](/images/makokou.jpg)
+_The mighty Ivindo River, as seen from the Ipassa field station._
+
+This study was conducted in three different regions of Gabon:
 
 * 13 days in the costal village of Cocobeach
 * 15 days near the southern village of Lebamba
@@ -31,7 +31,9 @@ To better understand the diversification of mormyrids, our team worked to collec
 
 **1. Study and compare the genetic expression of the electrical organs of different species**, to identify the genes that are the basis of the differences in electrical signals (in duration, number of phases, and complexity of the waves emitted). For this theme, we have dissected and preserved the electrical organs of different species of mormyres captured in the three regions visited. We also took genetic samples from most of the individuals collected.
 
-**2. Deepen our knowledge of the adaptive function of electrical signals.** For this theme, we have concentrated our efforts on a particular species, _Paramormyrops kingsleyae_, which is the  widespread in Gabon. Previous expeditions to Gabon revealed that this species emits a polymorphic electric discharge: in the majority of populations across the country, individuals emit three-phase (triphasic) signals, while in some populations, individuals issue two-phase (biphasic) signals ([Picq et al., 2020; Gallant et al. 2011](http://efish.integrativebiology.msu.edu/publications)). In two regions of Gabon, Cocobeach and Lebamba, biphasic and triphasic _P. kingsleyae_ are found in very close rivers and even coexist. In order to better understand the forces that generate this intraspecific variation in the electrical signal, we tested two different hypotheses:<figure style="width: 300px" class="align-right"> <img src="{{ site.url }}{{ site.baseurl }}/images/iboundji.jpg" alt=""> <figcaption>The beautiful Iboundji River, where triphasic _P. kingsleyae_ are found.</figcaption></figure>
+**2. Deepen our knowledge of the adaptive function of electrical signals.** For this theme, we have concentrated our efforts on a particular species, _Paramormyrops kingsleyae_, which is the  widespread in Gabon. Previous expeditions to Gabon revealed that this species emits a polymorphic electric discharge: in the majority of populations across the country, individuals emit three-phase (triphasic) signals, while in some populations, individuals issue two-phase (biphasic) signals ([Picq et al., 2020; Gallant et al. 2011](http://efish.integrativebiology.msu.edu/publications)). In two regions of Gabon, Cocobeach and Lebamba, biphasic and triphasic _P. kingsleyae_ are found in very close rivers and even coexist. In order to better understand the forces that generate this intraspecific variation in the electrical signal, we tested two different hypotheses:
+![](/images/iboundji.jpg)
+_The beautiful Iboundji River, where triphasic P. kingsleyae are found._
 
 * First, we tested whether _sexual selection_ could be the basis for the divergence of these signals. This hypothesis predicts that the signals differ between populations and that individuals have a preference for sexual partners emitting the same type of signal as them. We therefore carried out behavioral experiments directly in the field aimed at assessing the preference ofindividuals _P. kingselyae_ between biphasic or triphasic signals.
 * Second, we tested whether _natural selection_ could be responsible for this variation. This hypothesis also predicts that the signals differ between populations, and that these different signals make it possible to exploit different ecological resources (prey). To test this, we carried out an inventory of macro-invertebrates in different rivers and collected the stomach contents of species emitting different signals in these rivers to determine if these different signals allow them to detect and ingest different prey.
