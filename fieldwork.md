@@ -10,10 +10,7 @@ tags: []
 ---
 ## **Gabon 2019**
 
-<figure style="width: 300px" class="align-right">
-<img src="{{ site.url }}{{ site.baseurl }}/images/image004.png" alt="">
-<figcaption>Our Field sites.</figcaption>
-</figure> With more than 400 species of brackish and freshwater fish, Gabon abounds in a rich aquatic biodiversity. Among them, are the mormyrids, a group of about 200 species endemic to Africa.  One genus _Paramormyrops_ is particularly abundant in Gabon, where approximately 30 species have been recognized. These small fish iemit weak electrical discharges from an electrical organ derived from muscle tissue located in their tail. Mormyrids use these discharges both for communication purposes as well as to form electro-sensory images of their environment and to detect their prey.  Often different species are morphologically similar, but emit very distinct electrical discharges from each other, which suggests that these electrical signals play an important role in the recognition of species.
+With more than 400 species of brackish and freshwater fish, Gabon abounds in a rich aquatic biodiversity. Among them, are the mormyrids, a group of about 200 species endemic to Africa.  One genus _Paramormyrops_ is particularly abundant in Gabon, where approximately 30 species have been recognized. These small fish iemit weak electrical discharges from an electrical organ derived from muscle tissue located in their tail. Mormyrids use these discharges both for communication purposes as well as to form electro-sensory images of their environment and to detect their prey.  Often different species are morphologically similar, but emit very distinct electrical discharges from each other, which suggests that these electrical signals play an important role in the recognition of species.
 
 ![](/images/makokou.jpg)
 _The mighty Ivindo River, as seen from the Ipassa field station._
@@ -24,6 +21,9 @@ This study was conducted in three different regions of Gabon:
 * 15 days near the southern village of Lebamba
 * 8 days of sampling  in Ivindo National Park at Ipassa station
 * 1 day of sampling at Cap Esterias, near Libreville
+
+![](/images/image004.png)
+_Our Field sites_
 
 ## **Expedition goals**
 
