@@ -23,5 +23,3 @@ fields:
 - type: list
   name: tags
   label: tags
-pages:
-- _posts/check-out-our-collections-on-inaturalist.md
